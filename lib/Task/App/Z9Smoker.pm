@@ -6,7 +6,7 @@ use warnings FATAL => 'all';
 
 =head1 NAME
 
-Task::App::Z9Smoker - The great new Task::App::Z9Smoker!
+Task::App::Z9Smoker
 
 =head1 VERSION
 
@@ -28,26 +28,6 @@ Perhaps a little code snippet.
     my $foo = Task::App::Z9Smoker->new();
     ...
 
-=head1 EXPORT
-
-A list of functions that can be exported.  You can delete this section
-if you don't export anything, such as for a purely object-oriented module.
-
-=head1 SUBROUTINES/METHODS
-
-=head2 function1
-
-=cut
-
-sub function1 {
-}
-
-=head2 function2
-
-=cut
-
-sub function2 {
-}
 
 =head1 AUTHOR
 
