@@ -1,10 +1,10 @@
 Task-App-Z9Smoker
 
-Task fo quick setup semi-manual smokin' test environment
+Task for quick setup of semi-manual smokin' test environment using CPAN::Reporter
 
 INSTALLATION
 
-To install this module, run the following commands:
+To install this module, run the usual commands:
 
 	perl Build.PL
 	./Build
