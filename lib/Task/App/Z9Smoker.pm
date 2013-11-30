@@ -71,9 +71,12 @@ L<http://search.cpan.org/dist/Task-App-Z9Smoker/>
 
 =back
 
+=cut
 
-=head1 ACKNOWLEDGEMENTS
-
+#
+#=head1 ACKNOWLEDGEMENTS
+#
+#
 
 =head1 LICENSE AND COPYRIGHT
 

@@ -1,13 +1,6 @@
 
-- comment out ACKNOWLEDGEMENTS
-
-- note about not being released
-
-- Readme from pod 
-
-- update pod
-
 - checkout  other Task:: modules
 
-- review against perlbrew'ed dists' perllocal.pod
+ - - review against perlbrew'ed dists' perllocal.pod
 
+- Readme from pod 
