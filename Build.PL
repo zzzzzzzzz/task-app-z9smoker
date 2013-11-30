@@ -8,6 +8,7 @@ my $builder = Module::Build->new(
     license             => 'MIT',
     dist_author         => q{Janusz J. Maczka <bug5lay4r@gmail.com>},
     dist_version_from   => 'lib/Task/App/Z9Smoker.pm',
+    dist_abstract	=> 'Semi-manual smokin\' environment',
     release_status      => 'testing',
     configure_requires => {
         'Module::Build' => 0,
@@ -23,6 +24,8 @@ my $builder = Module::Build->new(
         'Test::More'				=> 0.98,
         'Test::Reporter::Transport::Socket'	=> 0,
         'Mozilla::CA'				=> 0,
+        
+        'IO::Socket::SSL'			=> 0,
         'Test::Reporter::Transport::Metabase'	=> 0,
         'App::Ack'				=> 0,
         'App::perlbrew'				=> 0,
