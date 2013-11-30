@@ -24,7 +24,7 @@ my $builder = Module::Build->new(
         'Test::More'				=> 0.98,
         'Test::Reporter::Transport::Socket'	=> 0,
         'Mozilla::CA'				=> 0,
-        
+        'Net::SSLeay'				=> 1.51,
         'IO::Socket::SSL'			=> 0,
         'Test::Reporter::Transport::Metabase'	=> 0,
         'App::Ack'				=> 0,
